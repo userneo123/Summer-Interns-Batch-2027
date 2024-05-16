@@ -6,7 +6,7 @@
 - Fork this repository.
 - Create a branch named after your name.
 - Make a folder named after your GitHub account.
-- Inside that folder, create a `details.txt` file containing:
+- Inside that folder, create a `your-github-username.txt` file containing:
   - Your name
   - Your branch
   - Your GitHub username
@@ -17,7 +17,7 @@ Example structure:
 ```
 .
 ├── your-github-username/
-│   └── details.txt
+│   └── your-github-username.txt
 ```
 
 Contents of `details.txt`:
