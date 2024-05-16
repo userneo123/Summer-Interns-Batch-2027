@@ -10,6 +10,7 @@
   - Your name
   - Your branch
   - Your GitHub username
+- Open a merge request to this repository with your branch.
 
 ---
 
