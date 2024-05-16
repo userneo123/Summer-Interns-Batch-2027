@@ -1,4 +1,4 @@
-```markdown
+
 # IvLabs Summer Interns Batch 2027 - GitHub Task
 
 ## Task
@@ -30,4 +30,3 @@ GitHub Username: your-github-username
 ---
 
 **IvLabs Summer Interns Batch 2027**
-```
